@@ -10,4 +10,4 @@ A modern and responsive personal portfolio website built with React.js to showca
 - JavaScript
 
 ## Link
-https://ibrahemhurani.github.io/React-portfolio/
+https://ibrahemhurani.github.io/Ibrahem-portfolio/
