@@ -1,67 +1,67 @@
 import React from "react";
 import "./Projects.css";
-const PROJECTS=[
-    {
-        id:'project1',
-        title:'Hells Paradise',
-        desc:'3D-Game',
-        cover:'End-image.jpeg',
-        tags:["C#","Unity","OOP","algorthim","3D","UI/UX"],
-        liveUrl:"https://ibrahem-hurani.itch.io/hells-paradise-3d",
-        codeUrl:"https://github.com/CourseGamedeveloper/Hells-Paradise"
+const PROJECTS = [
+  {
+    id: 'project1',
+    title: 'Hells Paradise',
+    desc: '3D-Game',
+    cover: 'End-image.jpeg',
+    tags: ["C#", "Unity", "OOP", "algorthim", "3D", "UI/UX"],
+    liveUrl: "https://ibrahem-hurani.itch.io/hells-paradise-3d",
+    codeUrl: "https://github.com/CourseGamedeveloper/Hells-Paradise"
 
-    },
-    {
-        id:'project2',
-        title:'BOOK-NOW',
-        desc:'App manage appointments',
-        cover:'white-background.jpg',
-        tags:["Java","Andriod","OOP","FireBase","SDK"],
-        liveUrl:"https://github.com/yousefmasarwa97/Book_Now",
-        codeUrl:"https://github.com/yousefmasarwa97/Book_Now"
+  },
+  {
+    id: 'project2',
+    title: 'BOOK-NOW',
+    desc: 'App manage appointments',
+    cover: 'white-background.jpg',
+    tags: ["Java", "Andriod", "OOP", "FireBase", "SDK"],
+    liveUrl: "https://github.com/yousefmasarwa97/Book_Now",
+    codeUrl: "https://github.com/yousefmasarwa97/Book_Now"
 
-    },
-    {
-        id:'project3',
-        title:'Worst-Case Fair Division Algorithn Implementation & Web Platform',
-        desc:'Algorithm',
-        cover:'white-background.jpg',
-        tags:["JavaScipts","Python-Flask","OOP","research","HTML","CSS"],
-        liveUrl:"https://ibrahemhurani.csariel.xyz/",
-        codeUrl:"https://github.com/IbrahemHurani/markakis_psomas_web"
+  },
+  {
+    id: 'project3',
+    title: 'Worst-Case Fair Division Algorithn Implementation & Web Platform',
+    desc: 'Algorithm',
+    cover: 'white-background.jpg',
+    tags: ["JavaScipts", "Python-Flask", "OOP", "research", "HTML", "CSS"],
+    liveUrl: "https://ibrahemhurani.csariel.xyz/",
+    codeUrl: "https://github.com/IbrahemHurani/markakis_psomas_web"
 
-    },
-    {
-        id:'project4',
-        title:'Chat Room',
-        desc:'Client-Server Chat Application',
-        cover:'white-background.jpg',
-        tags:["Python","TCP","UDP","OOP"],
-        liveUrl:"https://www.youtube.com/watch?v=0onQCSt8kuE",
-        codeUrl:"https://github.com/IbrahemHurani/Chat_ROOM"
+  },
+  {
+    id: 'project4',
+    title: 'Chat Room',
+    desc: 'Client-Server Chat Application',
+    cover: 'white-background.jpg',
+    tags: ["Python", "TCP", "UDP", "OOP"],
+    liveUrl: "https://www.youtube.com/watch?v=0onQCSt8kuE",
+    codeUrl: "https://github.com/IbrahemHurani/Chat_ROOM"
 
-    },
-    {
-      id:'project5',
-      title:'DJI-Drone Application',
-      desc:'andriod application enabling autonomous flight of drones with google maps',
-      cover:'Drone-image.jpeg',
-      tags:["Java","Andriod","OOP","SDK","Drone","algorthim","UI/UX","google-maps"],
-      liveUrl:"https://www.youtube.com/watch?v=781JmPTZTJc",
-      codeUrl:"https://github.com/IbrahemHurani/Mini-Drone-Simulation"
+  },
+  {
+    id: 'project5',
+    title: 'DJI-Drone Application',
+    desc: 'andriod application enabling autonomous flight of drones with google maps',
+    cover: 'Drone-image.jpeg',
+    tags: ["Java", "Andriod", "OOP", "SDK", "Drone", "algorthim", "UI/UX", "google-maps"],
+    liveUrl: "https://www.youtube.com/watch?v=781JmPTZTJc",
+    codeUrl: "https://github.com/IbrahemHurani/Mini-Drone-Simulation"
 
-    },
-    {
-      id:'project6',
-      title:'Target-Drop-Game',
-      desc:'Press Drop to release the ball,The closer it lands to the target center,the higher the round score',
-      cover:'white-background.jpg',
-      tags:['angular','TypeScript','OOP','UI/UX','algorthim','HTML','CSS','firebase'],
-      liveUrl:"https://github.com/IbrahemHurani/Target-Drop",
-      codeUrl:"https://github.com/IbrahemHurani/Target-Drop"
-      }
-    
-    
+  },
+  {
+    id: 'project6',
+    title: 'Target-Drop-Game',
+    desc: 'Press Drop to release the ball,The closer it lands to the target center',
+    cover: 'white-background.jpg',
+    tags: ['angular', 'TypeScript', 'OOP', 'UI/UX', 'algorthim', 'HTML', 'CSS', 'firebase'],
+    liveUrl: "https://github.com/IbrahemHurani/Target-Drop",
+    codeUrl: "https://github.com/IbrahemHurani/Target-Drop"
+  }
+
+
 
 ];
 const Projects = () => {
