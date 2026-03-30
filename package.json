@@ -2,7 +2,7 @@
   "name": "mywebsite",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://IbrahemHurani.github.io/ibrahem-portfolio",
+  "homepage": "https://IbrahemHurani.github.io/Ibrahem-portfolio",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
